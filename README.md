@@ -1,0 +1,1 @@
+some of my coding practices for learning React 
