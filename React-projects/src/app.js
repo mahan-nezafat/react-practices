@@ -1,9 +1,11 @@
 import React from 'react';
-import Clock from './components/Clock';
+import PlantCard from './components/plantcard/PlantCard';
+// import Clock from './components/clock/Clock';
 const App = () => {
     return ( 
         <>
-            <Clock />
+            {/* <Clock /> */}
+            <PlantCard />
         </>
      );
 }
