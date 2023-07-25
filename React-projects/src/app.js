@@ -1,13 +1,16 @@
 import React from 'react';
-import ShoppingSteps from './components/shoppingsteps/ShoppingSteps';
+import DateCounter from './components/datecounter/DateCounter';
+// import ShoppingSteps from './components/shoppingsteps/ShoppingSteps';
 // import PlantCard from './components/plantcard/PlantCard';
 // import Clock from './components/clock/Clock';
+
 const App = () => {
     return ( 
         <>
             {/* <Clock /> */}
             {/* <PlantCard /> */}
-            <ShoppingSteps />
+            {/* <ShoppingSteps /> */}
+            <DateCounter />
         </>
      );
 }
