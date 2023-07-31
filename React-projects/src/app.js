@@ -1,5 +1,6 @@
 import React from 'react';
-import DateCounter from './components/datecounter/DateCounter';
+import TipCalculator from './components/tipcalculator/TipCalculator';
+// import DateCounter from './components/datecounter/DateCounter';
 // import ShoppingSteps from './components/shoppingsteps/ShoppingSteps';
 // import PlantCard from './components/plantcard/PlantCard';
 // import Clock from './components/clock/Clock';
@@ -10,7 +11,8 @@ const App = () => {
             {/* <Clock /> */}
             {/* <PlantCard /> */}
             {/* <ShoppingSteps /> */}
-            <DateCounter />
+            {/* <DateCounter /> */}
+            <TipCalculator />
         </>
      );
 }
