@@ -1,5 +1,6 @@
 import React from 'react';
-import TipCalculator from './components/tipcalculator/TipCalculator';
+import TextExpander from './components/textexpander/TextExpander';
+// import TipCalculator from './components/tipcalculator/TipCalculator';
 // import DateCounter from './components/datecounter/DateCounter';
 // import ShoppingSteps from './components/shoppingsteps/ShoppingSteps';
 // import PlantCard from './components/plantcard/PlantCard';
@@ -12,7 +13,8 @@ const App = () => {
             {/* <PlantCard /> */}
             {/* <ShoppingSteps /> */}
             {/* <DateCounter /> */}
-            <TipCalculator />
+            {/* <TipCalculator /> */}
+            <TextExpander />
         </>
      );
 }
