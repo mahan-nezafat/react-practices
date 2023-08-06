@@ -1,5 +1,6 @@
 import React from 'react';
-import TextExpander from './components/textexpander/TextExpander';
+import CurrencyConverter from './components/currencyconverter/CurrencyConverter';
+// import TextExpander from './components/textexpander/TextExpander';
 // import TipCalculator from './components/tipcalculator/TipCalculator';
 // import DateCounter from './components/datecounter/DateCounter';
 // import ShoppingSteps from './components/shoppingsteps/ShoppingSteps';
@@ -14,7 +15,8 @@ const App = () => {
             {/* <ShoppingSteps /> */}
             {/* <DateCounter /> */}
             {/* <TipCalculator /> */}
-            <TextExpander />
+            {/* <TextExpander /> */}
+            <CurrencyConverter />
         </>
      );
 }
