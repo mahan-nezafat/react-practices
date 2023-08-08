@@ -1,5 +1,5 @@
 import React from 'react';
-import CurrencyConverter from './components/currencyconverter/CurrencyConverter';
+// import CurrencyConverter from './components/currencyconverter/CurrencyConverter';
 // import TextExpander from './components/textexpander/TextExpander';
 // import TipCalculator from './components/tipcalculator/TipCalculator';
 // import DateCounter from './components/datecounter/DateCounter';
@@ -16,7 +16,7 @@ const App = () => {
             {/* <DateCounter /> */}
             {/* <TipCalculator /> */}
             {/* <TextExpander /> */}
-            <CurrencyConverter />
+            {/* <CurrencyConverter /> */}
         </>
      );
 }
