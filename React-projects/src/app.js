@@ -1,4 +1,5 @@
 import React from 'react';
+import BankAccount from './components/bankaccount/BankAccount';
 // import CurrencyConverter from './components/currencyconverter/CurrencyConverter';
 // import TextExpander from './components/textexpander/TextExpander';
 // import TipCalculator from './components/tipcalculator/TipCalculator';
@@ -17,6 +18,7 @@ const App = () => {
             {/* <TipCalculator /> */}
             {/* <TextExpander /> */}
             {/* <CurrencyConverter /> */}
+            <BankAccount />
         </>
      );
 }
